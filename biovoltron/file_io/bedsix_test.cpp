@@ -1,5 +1,5 @@
-#include "bedsix.hpp"
-#include <gtest/gtest.h>
+#include "biovoltron/file_io/bedsix.hpp"
+#include <googletest/googletest/gtest/gtest.h>
 
 // Test fixture for BedSixRecord
 class BedSixRecordTest : public ::testing::Test {
