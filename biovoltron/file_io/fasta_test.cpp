@@ -1,5 +1,5 @@
-#include <googletest/gtest.h>
-#include "fasta.hpp"
+#include <googletest/googletest/gtest/gtest.h>
+#include "biovoltron/file_io/fasta.hpp"
 
 // Test fixture for FastaRecord
 class FastaRecordTest : public ::testing::Test {
