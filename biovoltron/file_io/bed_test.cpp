@@ -1,6 +1,6 @@
-#include "bed.hpp"
-#include <gtest/gtest.h>
-#include <gmock/gmock.h>
+#include "biovoltron/file_io/bed.hpp"
+#include <googletest/googletest/gtest/gtest.h>
+#include <googletest/googletest/gmock/gmock.h>
 
 using namespace biovoltron;
 using ::testing::_;
