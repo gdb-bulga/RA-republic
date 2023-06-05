@@ -1,4 +1,4 @@
-#include <gtest/gtest.h>
+#include <googletest/googletest/gtest/gtest.h>
 #include <biovoltron/file_io/cigar.hpp>
 
 using namespace biovoltron;
